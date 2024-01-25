@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "name": "Lina Yeager",
+      "spesialis": "Dokter Gigi",
+      "tangal": "1 Jan 2024",
+      "waktu": "08.00 AM",
+      "media": "Zoom Metting"
+    },
+    {
+      "name": "Chie Lian Lee",
+      "spesialis": "Saraf",
+      "tangal": "3 Jan 2024",
+      "waktu": "09.30 PM",
+      "media": "Google Metting"
+    },
+    {
+      "name": "Mincika Itadori",
+      "spesialis": "Hati",
+      "tangal": "29 Des 2023",
+      "waktu": "07.30 PM",
+      "media": "Discord"
+    }
+  ]
+}

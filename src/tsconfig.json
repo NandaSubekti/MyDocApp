@@ -1,0 +1,13 @@
+//ini bawaan dari awal bikin app
+{
+  "extends": "@tsconfig/react-native/tsconfig.json"
+}
+
+// {
+//   "compilerOptions": {
+//     "paths": {
+//       "@firebase/auth": ["./node_modules/@firebase/auth/dist/index.rn.d.ts"]
+//     }
+//   },
+//   "extends": "@tsconfig/react-native/tsconfig.json"
+// }

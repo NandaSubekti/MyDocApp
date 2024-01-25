@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "name": "Rumah Sakit Pelita Harapan",
+      "decs": "Rumah sakit dengan total 300 kamar inap dengan... more",
+      "distance": "2 km dari pusat kota",
+      "star": 4,
+      "rating": "490+"
+    },
+    {
+      "name": "Rumah Sakit Bloueheart Medicine",
+      "decs": "Rumah sakit ternyaman dengan teknologi mutakhir... more",
+      "distance": "0.3 km dari pusat kota",
+      "star": 4.5,
+      "rating": "230+"
+    },
+    {
+      "name": "Rumah Sakit Karya Cempaka",
+      "decs": "Menggunakan inovasi nano teknologi dalam penanganan... more",
+      "distance": "5 km dari pusat kota",
+      "star": 5,
+      "rating": "1.6k+"
+    }
+  ]
+}

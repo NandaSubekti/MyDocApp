@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "hospital": "Rumah Sakit Pelita Harapan",
+      "photos": ["DummyUser1", "DummyUser2", "DummyUser3", "DummyUser4"]
+    },
+    {
+      "hospital": "Rumah Sakit Bloueheart Medicine",
+      "photos": ["DummyUser5", "DummyUser6", "DummyUser7", "DummyUser8"]
+    },
+    {
+      "hospital": "Rumah Sakit Karya Cempaka",
+      "photos": ["DummyUser9", "DummyUser10", "DummyUser1", "DummyUser2"]
+    },
+    {
+      "hospital": "Rumah Sakit Magenta",
+      "photos": ["DummyUser1", "DummyUser2", "DummyUser3", "DummyUser4"]
+    }
+  ]
+}

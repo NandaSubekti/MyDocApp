@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Alexa Rachel",
+      "profession": "Dokter Anak"
+    },
+
+    {
+      "id": 2,
+      "name": "Sunny Frank",
+      "profession": "Dokter Gigi"
+    },
+
+    {
+      "id": 3,
+      "name": "Poe Minn",
+      "profession": "Dokter Bedah"
+    }
+  ]
+}

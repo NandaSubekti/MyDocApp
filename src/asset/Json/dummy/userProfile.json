@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "name": "Akun Dan Privasi",
+      "menu1": "• Ganti Email",
+      "menu2": "• Ganti Password",
+      "menu3": "• Ganti No. Handphone",
+      "menu4": "• Verifikasi KTP"
+    },
+    {
+      "name": "Atur Mitra",
+      "menu1": "• Daftarkan Rumah Sakit",
+      "menu2": "• Update Nakes",
+      "menu3": "• Update Stok",
+      "menu4": "• Sertifikasi"
+    },
+    {
+      "name": "Jual Rumah Sakit",
+      "menu1": "• Lelang",
+      "menu2": "• Waqafkan",
+      "menu3": "• Jual Alat Kesehatan",
+      "menu4": "• Hire Nakes"
+    }
+  ]
+}
